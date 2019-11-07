@@ -20,3 +20,6 @@ ueditor_wechat_emotion_plugin
     }
 ```
 因为使用的是线上地址, wxmp 目录下的图片文件不是必要的
+
+## TODO
+补全 emotion.html 里的表情 hover 文字
