@@ -1,8 +1,8 @@
 ueditor_wechat_emotion_plugin
 =============================
 
-这是一个 ueditor 的表情插件,基于原版的 emotion 修改
-
+这是一个 ueditor 的表情插件,基于原版的 emotion 修改.效果如下图
+![preview](./preview.png)
 ## 使用
 下载本项目,直接替换 `dialogs/emotion`目录,然后找到`lang/zh-cn.js`新增一行,记得其他语言目录下也要新增对应文本
 ```
